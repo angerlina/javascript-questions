@@ -512,7 +512,7 @@ JavaScript это **динамически типизированный язык
 
 ---
 
-###### 16. Что будет в консоли?
+###### 16. Что будет в консоли? ✅
 
 ```javascript
 let number = 0;
@@ -548,7 +548,7 @@ console.log(number);
 
 ---
 
-###### 17. Что будет в консоли?
+###### 17. Что будет в консоли? ✅
 
 ```javascript
 function getPersonInfo(one, two, three) {
@@ -579,7 +579,7 @@ getPersonInfo`${person} is ${age} years old`;
 
 ---
 
-###### 18. Что будет в консоли?
+###### 18. Что будет в консоли? ✅
 
 ```javascript
 function checkAge(data) {
@@ -615,7 +615,7 @@ checkAge({ age: 18 });
 
 ---
 
-###### 19. Что будет в консоли?
+###### 19. Что будет в консоли? ✅
 
 ```javascript
 function getAge(...args) {
@@ -642,7 +642,7 @@ getAge(21);
 
 ---
 
-###### 20. Что будет в консоли?
+###### 20. Что будет в консоли? ✅
 
 ```javascript
 function getAge() {
