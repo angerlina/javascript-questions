@@ -671,7 +671,7 @@ getAge();
 
 ---
 
-###### 21. Чему будет равно `sum`?
+###### 21. Чему будет равно `sum`? ✅
 
 ```javascript
 const sum = eval('10*10+5');
@@ -694,7 +694,7 @@ const sum = eval('10*10+5');
 
 ---
 
-###### 22. Как долго будет доступен cool_secret?
+###### 22. Как долго будет доступен cool_secret? ✅
 
 ```javascript
 sessionStorage.setItem('cool_secret', 123);
@@ -719,7 +719,7 @@ sessionStorage.setItem('cool_secret', 123);
 
 ---
 
-###### 23. Что будет в консоли?
+###### 23. Что будет в консоли? ✅
 
 ```javascript
 var num = 8;
@@ -747,7 +747,7 @@ console.log(num);
 
 ---
 
-###### 24. Каким будет результат?
+###### 24. Каким будет результат? ✅
 
 ```javascript
 const obj = { 1: 'a', 2: 'b', 3: 'c' };
@@ -778,7 +778,7 @@ set.has(1);
 
 ---
 
-###### 25. Что будет в консоли?
+###### 25. Что будет в консоли? ✅
 
 ```javascript
 const obj = { a: 'one', b: 'two', a: 'three' };
