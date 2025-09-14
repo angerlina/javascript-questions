@@ -1261,7 +1261,7 @@ console.log(numbers);
 
 ---
 
-###### 41. Каким будет результат?
+###### 41. Каким будет результат? ✅
 
 ```javascript
 !!null;
@@ -1290,7 +1290,7 @@ console.log(numbers);
 
 ---
 
-###### 42. Что возвращает метод `setInterval` в браузере?
+###### 42. Что возвращает метод `setInterval` в браузере? ✅
 
 ```javascript
 setInterval(() => console.log('Hi'), 1000);
@@ -1313,7 +1313,7 @@ setInterval(() => console.log('Hi'), 1000);
 
 ---
 
-###### 43. Каким будет результат?
+###### 43. Каким будет результат? ✅
 
 ```javascript
 [...'Lydia'];
@@ -1336,7 +1336,7 @@ setInterval(() => console.log('Hi'), 1000);
 
 ---
 
-###### 44. Каким будет результат?
+###### 44. Каким будет результат? ✅
 
 ```javascript
 function* generator(i) {
